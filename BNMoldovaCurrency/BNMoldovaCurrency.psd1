@@ -86,6 +86,9 @@ AliasesToExport = @()
 # List of all files packaged with this module
 # FileList = @()
 
+# ID used to uniquely identify this module
+GUID = '57aba427-9659-41b3-986d-4a213bebad59'
+
 # Private data to pass to the module specified in RootModule/ModuleToProcess. This may also contain a PSData hashtable with additional module metadata used by PowerShell.
 PrivateData = @{
 
