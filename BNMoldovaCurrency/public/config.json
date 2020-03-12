@@ -1,0 +1,9 @@
+{
+    "bnm":  {
+                "params":  {
+                               "date":  "$(get-date -f 'dd.MM.yyyy')",
+                               "get_xml":  1
+                           },
+                "endPoint":  "https://bnm.md/ro/official_exchange_rates"
+            }
+}
